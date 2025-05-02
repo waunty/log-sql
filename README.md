@@ -1,2 +1,1 @@
-# log-sql
-log sql
+# Log
